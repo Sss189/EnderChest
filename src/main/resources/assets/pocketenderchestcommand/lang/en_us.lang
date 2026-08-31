@@ -1,0 +1,3 @@
+command.pocketchest.locked=You must complete the advancement %s to unlock this command in this dimension.
+command.unavailable=The command is unavailable in this dimension.
+container.worldchest=World Chest
